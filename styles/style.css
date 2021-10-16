@@ -48,6 +48,11 @@ main {
     font-weight: bolder;
     color: var(--kyf-blue);
 }
+.title-2{
+    font-size: x-large;
+    font-weight: bold;
+    color: var(--kyf-blue);
+}
 
 .kyf-card {
     background-color: var(--kyf-blue);
