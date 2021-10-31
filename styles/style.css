@@ -34,7 +34,7 @@ main {
 }
 
 .kyf-logo {
-    transform: scale(1.5);
+    transform: scale(1);
     font-weight: 600;
 }
 
@@ -76,4 +76,11 @@ main {
     display: flex;
     justify-content: center;
     padding: 2rem;
+}
+
+
+@media (max-width:576px){
+    .kyf-logo{
+        justify-content: center;
+    }
 }
